@@ -1,0 +1,7 @@
+# If you use any external packages in your project, which you have installed with `pip install <package>`
+# put their names here, one package per line, e.g.:
+#
+arcade
+numpy
+scipy
+screeninfo
